@@ -1,6 +1,7 @@
 # Angular5Admin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+and based on [phpcodebooster/angular5-admin](https://github.com/phpcodebooster/angular5-admin). 
 
 ## Development server
 

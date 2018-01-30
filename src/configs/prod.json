@@ -1,0 +1,8 @@
+{
+  "mysql": {
+    "host"     : "localhost",
+    "user"     : "prod_user",
+    "password" : "prod_pass",
+    "database" : "angular5-admin"
+  }
+}
